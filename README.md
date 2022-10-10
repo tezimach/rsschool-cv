@@ -1,1 +1,1 @@
-https://tezimach.github.io/rsschool-cv/
+https://tezimach.github.io/rsschool-cv/cv
