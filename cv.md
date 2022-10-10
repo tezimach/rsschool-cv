@@ -24,4 +24,4 @@
  **CEO**
  ->_Feb 2020 to Present_
 
- ||: Email: **<tezimach@yahoo.com>** || Phone: **+ 995 596 963 636** || Website: **[Github repository](tezimach.github.io)** :||
+ ||: Email: **<tezimach@yahoo.com>** || Phone: **+ 995 596 963 636** || Website: **[Github repository](https://github.com/tezimach)** :||
